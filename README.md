@@ -1,9 +1,11 @@
-# Articulate
+# Articulate AIO FORK
 Articulate is a custom written voice control program designed for ArmA. It makes controlling your squad simply a matter of saying what you wish them to do.
 
 For example, instead of having to remember that the **Open Fire** command for your whole squad is `~ 3 1` you can simply say "All, open fire".
 
 For more information on the commands currently available, take a look at the wiki's [commands](https://github.com/Mpstark/articulate/wiki/Commands) page.
+
+This fork was created work with the All In One Command Menu by Leopard20, it will not work with the default menu. 
 
 ## Download
 You can download the latest development preview of Articulate [here](https://github.com/Mpstark/articulate/wiki/Development-Preview). Please keep in mind that, being a development preview, it is likely to have bugs and may crash/hinder gameplay. We ask that you be patient, report any issues you encounter and give us the chance to develop the application you are looking for.
@@ -23,6 +25,8 @@ You will generally be able to use Articulate by giving the same commands your in
 
 For a full list of available commands, take a look at the [wiki](https://github.com/Mpstark/articulate/wiki/Commands).
 For more information on improving the accuracy of Articulate's speech recognition, read [this page](https://github.com/Mpstark/articulate/wiki/Improving-Speech-Recognition).
+
+## 
 
 ## Providing Feedback
 You can provide feedback to help improve Articulate by:
